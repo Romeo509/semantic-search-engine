@@ -39,8 +39,26 @@ sources = [
     "Overview of decision trees and random forests in machine learning",
     "Creating a machine learning model with TensorFlow",
     "The role of AI in self-driving cars",
-    "AI in education: Revolutionizing the classroom"
+    "AI in education: Revolutionizing the classroom",
+    "The best hiking trails in the world",
+    "How to make homemade pizza dough",
+    "Meditation techniques for beginners",
+    "Top 10 books to read in 2025",
+    "The impact of climate change on global ecosystems",
+    "Best places to visit in Africa for a cultural experience",
+    "Understanding the human brain and how it works",
+    "Tips for effective time management in daily life",
+    "How to grow organic vegetables in your garden",
+    "Yoga poses for stress relief and flexibility",
+    "The history of jazz music and its influence on modern genres",
+    "The art of painting and how to get started",
+    "How to improve your sleep quality",
+    "The benefits of a plant-based diet on health",
+    "How to organize a successful charity event",
+    "Exploring different types of world cuisines",
+    "The science behind ocean currents and their effects on marine life"
 ]
+
 
 
 # Example query
