@@ -46,6 +46,15 @@ Similarity: 0.8653 | Source: Best practices for deep learning
 Similarity: 0.8372 | Source: Introduction to neural networks
 ...
 ```
+## Search Results
+
+Below are the results from the semantic search using google colab:
+
+### Search Result 1
+![Search Result 1](search1.png)
+
+### Search Result 2
+![Search Result 2](search2.png)
 
 
 
