@@ -37,3 +37,39 @@ sources = [
 ```python
 query = "Learn about machine learning"
 ```
+
+### Search result
+
+```python
+Similarity: 0.8921 | Source: How to train a machine learning model
+Similarity: 0.8653 | Source: Best practices for deep learning
+Similarity: 0.8372 | Source: Introduction to neural networks
+...
+```
+
+
+## Setup Instructions
+
+
+## Setup Instructions
+
+1. Open this notebook in **Google Colab**.
+2. Install the necessary libraries by running the following cells:
+
+   ```python
+   # Install Sentence Transformers and scikit-learn for semantic search functionality
+   !pip install sentence-transformers scikit-learn
+   
+   # Install Transformers and PyTorch for model handling and computations
+   !pip install transformers torch scikit-learn typing
+   ```
+### Explanation:
+* transformers: The library that provides access to pre-trained models for various NLP tasks, including Sentence Transformers.
+* torch: PyTorch, the deep learning framework that powers many models (including Sentence Transformers).
+* scikit-learn: For calculating cosine similarity and other machine learning tasks.
+* typing: Provides type hinting support for Python (not strictly required, but often useful for clarity).
+
+### Use Cases
+Search Engines: Improve search quality by returning results based on meaning.
+Recommendation Systems: Suggest related articles, products, or content based on user input.
+Knowledge Base: Find relevant articles or FAQs for customer support based on query semantics.
