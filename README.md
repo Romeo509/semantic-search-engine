@@ -48,8 +48,6 @@ Similarity: 0.8372 | Source: Introduction to neural networks
 ```
 
 
-## Setup Instructions
-
 
 ## Setup Instructions
 
@@ -70,6 +68,13 @@ Similarity: 0.8372 | Source: Introduction to neural networks
 * typing: Provides type hinting support for Python (not strictly required, but often useful for clarity).
 
 ### Use Cases
-Search Engines: Improve search quality by returning results based on meaning.
-Recommendation Systems: Suggest related articles, products, or content based on user input.
-Knowledge Base: Find relevant articles or FAQs for customer support based on query semantics.
+* Search Engines: Improve search quality by returning results based on meaning.
+* Recommendation Systems: Suggest related articles, products, or content based on user input.
+* Knowledge Base: Find relevant articles or FAQs for customer support based on query semantics.
+
+### Getting Started
+After setting up the environment in Google Colab (or locally), you can follow these steps to start using the Semantic Search Engine:
+
+* Define a list of sources (documents, articles, etc.).
+* Input a query related to the sources.
+* Run the search function to get ranked results based on cosine similarity.
