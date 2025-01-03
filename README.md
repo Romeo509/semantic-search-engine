@@ -87,3 +87,8 @@ After setting up the environment in Google Colab (or locally), you can follow th
 * Define a list of sources (documents, articles, etc.).
 * Input a query related to the sources.
 * Run the search function to get ranked results based on cosine similarity.
+
+
+### Improvements and Future Enhancements
+* Error Handling: The program can be further improved by implementing robust error handling mechanisms. This would help manage scenarios such as missing or invalid input data, issues with model loading, or API failures. Ensuring graceful error handling would improve the tool's usability and make it more resilient in production environments.
+* Performance Optimization: As the dataset grows, consider optimizing performance by incorporating techniques like indexing or batching.
